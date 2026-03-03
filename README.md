@@ -41,3 +41,8 @@ An AI-powered matchmaking engine that:
 
 ## Team
 Developed as part of a 24-hour hackathon project.
+
+## Demo Video
+
+🎥 Watch the working prototype here:  
+[Click here to view demo]https://www.linkedin.com/posts/keerthana-mynampati-7bb702303_artificialintelligence-machinelearning-nlp-activity-7434555618289557504-RJBf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE2GVf8BoLhZ9elhqBNhAv5f_pN4E9NjXpc
